@@ -1,0 +1,17 @@
+p {
+  padding-bottom: 5px;
+}
+body {
+  background: darkgoldenrod url(images/deer-fight.png) center center repeat;
+  height: 5px;
+}
+.header {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #abcd00;
+}
+.main {
+  text-align: center;
+  color: #abcd00;
+  margin: 0 15px 15px 10px;
+}
